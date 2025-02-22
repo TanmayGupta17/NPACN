@@ -1,0 +1,13 @@
+www.google.com
+ 127.42.32.21
+
+www.yahoo.com
+ 123.45.56.67
+
+www.gmail.com
+ 123.34.45.56
+
+www.tanmay.com
+ 125.67.34.21
+
+
